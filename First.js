@@ -5,7 +5,7 @@ console.log(button);
 console.log("Hello public");
 // const login = "Login page added";
 const login = "Login page added";
-// console.log(login);
+console.log(login);
 
 // const footer = "Footer added in our website";
 // console.log(footer);
