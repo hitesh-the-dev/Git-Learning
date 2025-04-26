@@ -2,7 +2,7 @@ const button = "Added a Button";
 console.log(button);
 
 
-console.log("Hello public");
+console.log("Hello public"); 
 // const login = "Login page added";
 const login = "Login page added";
 console.log(login);
